@@ -1,8 +1,12 @@
-# React + Vite
+# JotSpot
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+JotSpot is a Chrome Extension which helps you to remember key points by enabling you to Jot On The Spot in your favourite websites
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Step 1: Git Clone the respository
+Step 2: cd into the folder
+Step 3: npm i
+Step 4: npm run build
+Step 5: Enable developer options in Chrome Extension
+Step 6: Click Load Unpacked and select the dist folder in the project
+Step 7: Enable the extension
+Step 8: Enjoy JotSpot
