@@ -41,7 +41,7 @@ npm install
 
 ## License
 
-This project is licensed under the [MIT License](License.txt).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ## Contact
 
