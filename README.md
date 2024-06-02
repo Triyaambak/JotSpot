@@ -26,11 +26,12 @@ git clone https://github.com/Triyaambak/JotSpot.git
 cd JotSpot
 npm install
 ```
+
 3.After installation, run the following command:
 
-    ```bash
-    npm run build
-    ```
+```bash
+npm run build
+```
 4.Enable developer options in Chrome Extension
 
 5.Click Load Unpacked and select the dist folder in the project
