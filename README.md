@@ -22,3 +22,11 @@ To install JotSpot, simply clone this repository to your local machine:
 ```bash
 git clone https://github.com/Triyaambak/JotSpot.git
 
+```
+After cloning, navigate to the project directory and install dependencies using npm:
+
+```bash
+cd JotSpot
+npm install
+```
+
