@@ -1,6 +1,6 @@
 # JotSpot
 
-JotSpot is a collaborative note-taking application that allows users to create, edit, and share notes in real-time.
+JotSpot is a Chrome Extension which helps you to remember key points by enabling you to Jot On The Spot in your favourite websites.
 
 ## Introduction
 
@@ -9,24 +9,43 @@ JotSpot is designed to make note-taking and collaboration simple and efficient. 
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
 
 ## Installation
 
-To install JotSpot, simply clone this repository to your local machine:
+1.To install JotSpot, simply clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/Triyaambak/JotSpot.git
 
 ```
-After cloning, navigate to the project directory and install dependencies using npm:
+2.After cloning, navigate to the project directory and install dependencies using npm:
 
 ```bash
 cd JotSpot
 npm install
 ```
+3.After installation, run the following command:
+
+    ```bash
+    npm run build
+    ```
+4.Enable developer options in Chrome Extension
+
+5.Click Load Unpacked and select the dist folder in the project
+
+6.Enable the extension
+
+7.Enjoy JotSpot
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For any inquiries or feedback, please contact the project maintainer:
+triyaambaks2003@gmail.com
+
 
